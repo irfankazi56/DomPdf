@@ -1,5 +1,6 @@
 # DOMPdf Simple with Bootstrap and Font Awesome
 save to xampp/htdocs/pdf
+run composer install
 and run apatch... on browser localhost/pdf/dompdf.php
 and you will see the pdf. 
 
